@@ -223,9 +223,9 @@
     },
     "info": {
       "title": "İletişim Bilgileri",
-      "address": {
+      "address": {  
         "label": "Adres",
-        "value": "AOSB 3. Kısım Teknopark\nAntalya, Turkey"
+        "value": "Kopli tn 25a Tallinn Harjumaa 10412"
       },
       "phone": {
         "label": "Telefon",
