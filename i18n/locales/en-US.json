@@ -1,0 +1,380 @@
+{
+  "common": {
+    "contactUs": "Contact Us",
+    "learnMore": "Learn More",
+    "services": "Services",
+    "home": "Home",
+    "contact": "Contact",
+    "customers": "Customers"
+  },
+  "servicesPage": {
+    "meta": {
+      "title": "Our Services | Niobil",
+      "description": "Comprehensive services provided by our expert team in industrial solutions and technology.",
+      "keywords": "industrial automation, network solutions, server solutions, security solutions, software development, IoT solutions"
+    },
+    "title": "Our Areas of Expertise",
+    "description": "At your service with our expert team in industrial solutions and technology",
+    "services": {
+      "industrial": {
+        "title": "Industrial Automation",
+        "description": "PLC programming, SCADA systems, HMI design, and industrial network solutions. We optimize your production processes to increase efficiency."
+      },
+      "network": {
+        "title": "Network Solutions",
+        "description": "Enterprise network infrastructure, wireless network systems, VPN solutions, and network security. We strengthen your business communication infrastructure."
+      },
+      "server": {
+        "title": "Server Solutions",
+        "description": "Server setup, virtualization, backup systems, disaster recovery, and load balancing. We keep your data secure."
+      },
+      "security": {
+        "title": "Security Solutions",
+        "description": "Cybersecurity, firewall management, penetration testing, and security consulting. We protect your business against cyber threats."
+      },
+      "software": {
+        "title": "Custom Software Development",
+        "description": "Web applications, mobile apps, desktop software, and API integrations. We create tailored solutions for your needs."
+      },
+      "iot": {
+        "title": "IoT Solutions",
+        "description": "Sensor networks, data collection systems, remote monitoring, and control solutions. We integrate the Internet of Things into your business."
+      },
+      "cloud": {
+        "title": "Cloud Solutions",
+        "description": "Infrastructure setup, management, and optimization on AWS, Azure, and Google Cloud platforms. We move your business to the cloud."
+      },
+      "analytics": {
+        "title": "Data Analytics and BI",
+        "description": "Big data analysis, business intelligence solutions, reporting, and dashboard design. We transform your data into value."
+      },
+      "consulting": {
+        "title": "Technical Consulting",
+        "description": "Project management, technology consulting, digital transformation strategies, and training services. We're by your side with our expert team."
+      }
+    }
+  },
+  "services": {
+    "industrial": {
+      "meta": {
+        "title": "Industrial Automation Solutions | Niobil",
+        "description": "Smart automation solutions for modern manufacturing facilities. PLC programming, SCADA systems, and HMI design services.",
+        "keywords": "industrial automation, plc programming, scada systems, hmi design, automation solutions"
+      },
+      "title": "Industrial Automation",
+      "description": "Taking your business to the future with smart automation solutions needed by modern manufacturing facilities.",
+      "solutions": {
+        "title": "Comprehensive Automation Solutions",
+        "description": "We provide end-to-end automation solutions for your industrial facilities."
+      },
+      "services": {
+        "title": "Our Services",
+        "description": "Comprehensive solutions for the needs of modern industrial facilities:"
+      },
+      "features": {
+        "plc": {
+          "title": "PLC Programming",
+          "description": "Programming and integration for PLC systems from Siemens, Allen Bradley, Omron, and other leading brands."
+        },
+        "scada": {
+          "title": "SCADA Systems",
+          "description": "Modern SCADA solutions that enable real-time monitoring and control of your production processes."
+        },
+        "hmi": {
+          "title": "HMI Design",
+          "description": "Make your operators' work easier with user-friendly and modern interfaces."
+        }
+      },
+      "cta": {
+        "question": "Looking for support with your project?",
+        "action": "Get in touch now"
+      }
+    },
+    "network": {
+      "meta": {
+        "title": "Network Solutions | Niobil",
+        "description": "Enterprise network infrastructure, VPN solutions, and network security services. Secure and high-performance network solutions.",
+        "keywords": "network solutions, network infrastructure, vpn solutions, network security, enterprise network"
+      },
+      "title": "Network Solutions",
+      "description": "We provide secure and high-performance network infrastructure solutions for your business.",
+      "solutions": {
+        "title": "Enterprise Network Solutions",
+        "description": "Scalable network solutions tailored to modern business needs"
+      },
+      "features": {
+        "infrastructure": {
+          "title": "Network Infrastructure",
+          "description": "Setup and management of high-performance and reliable network infrastructure"
+        },
+        "vpn": {
+          "title": "VPN Solutions",
+          "description": "Secure remote access and inter-branch connectivity solutions"
+        },
+        "security": {
+          "title": "Network Security",
+          "description": "Protect your network with firewall, IPS/IDS, and security gateway solutions"
+        }
+      },
+      "cta": {
+        "question": "Want to strengthen your network infrastructure?",
+        "action": "Contact our expert team"
+      }
+    },
+    "server": {
+      "meta": {
+        "title": "Server Solutions | Niobil",
+        "description": "Enterprise server infrastructure, backup and disaster recovery services. Reliable and scalable server solutions.",
+        "keywords": "server solutions, server management, backup, disaster recovery, virtualization"
+      },
+      "title": "Server Solutions",
+      "description": "We provide reliable and scalable server infrastructure solutions for your business.",
+      "solutions": {
+        "title": "Enterprise Server Solutions",
+        "description": "High-performance server solutions tailored to modern business needs"
+      },
+      "features": {
+        "management": {
+          "title": "Server Setup and Management",
+          "description": "Setup, configuration, and proactive management of your physical and virtual servers"
+        },
+        "backup": {
+          "title": "Backup and Disaster Recovery",
+          "description": "Keep your data safe and maintain business continuity"
+        },
+        "virtualization": {
+          "title": "Virtualization",
+          "description": "Optimize your resources and reduce costs with VMware and Hyper-V"
+        }
+      },
+      "cta": {
+        "question": "Want to strengthen your server infrastructure?",
+        "action": "Contact our expert team"
+      }
+    }
+  },
+  "homePage": {
+    "hero": {
+      "title": "Niobil",
+      "subtitle": " Innovation and Technology",
+      "description": "We design tomorrow's technologies today. We take your business one step ahead with our innovative solutions.",
+      "buttons": {
+        "projects": "Our Projects",
+        "contact": "Contact Us"
+      }
+    },
+    "ventures": {
+      "title": "Our Ventures",
+      "subtitle": "Leading Solutions in IoT Technologies",
+      "navibil": {
+        "title": "Navibil Fleet Management Systems",
+        "description": "Manage your vehicle fleets more efficiently with smart fleet management solutions. GPS tracking, fuel analysis, and driver behavior reporting."
+      },
+      "estegre": {
+        "title": "Estegre Environment Monitoring Solutions",
+        "description": "Monitor and control your environmental conditions in real-time with IoT sensors. Temperature, humidity, and air quality monitoring."
+      }
+    },
+    "features": {
+      "title": "Our Services",
+      "subtitle": "Technology Solutions",
+      "description": "Taking your business to the future with modern technologies.",
+      "web": {
+        "title": "Web Development",
+        "description": "We develop modern and responsive web applications. Providing powerful solutions with the latest technologies."
+      },
+      "mobile": {
+        "title": "Mobile Application",
+        "description": "We develop native mobile applications for iOS and Android. User-friendly and high-performance solutions."
+      },
+      "data": {
+        "title": "Data Analysis",
+        "description": "We analyze your data and provide meaningful insights. Support for data-driven decisions."
+      },
+      "cloud": {
+        "title": "Cloud Solutions",
+        "description": "We provide scalable solutions on AWS and Azure. Secure and high-performance infrastructure services."
+      }
+    },
+    "cta": {
+      "title": "Ready for your project?",
+      "subtitle": "Get in touch with us now.",
+      "buttons": {
+        "contact": "Contact Us",
+        "projects": "View Our Projects"
+      }
+    }
+  },
+  "contactPage": {
+    "meta": {
+      "title": "Contact | Niobil",
+      "description": "Get in touch with Niobil. Consult with our expert team for technology solutions.",
+      "keywords": "contact, Niobil contact, technology consulting"
+    },
+    "title": "Contact",
+    "subtitle": "Get in touch with us for your projects",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Submit"
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "label": "Address",
+        "value": "AOSB 3. Kısım Teknopark\nAntalya, Turkey"
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "+90 850 305 71 37"
+      },
+      "email": {
+        "label": "Email",
+        "value": "account[at]niobil.com"
+      }
+    },
+    "hours": {
+      "title": "Working Hours",
+      "weekdays": {
+        "label": "Weekdays",
+        "value": "09:00 - 18:00"
+      },
+      "saturday": {
+        "label": "Saturday",
+        "value": "09:00 - 13:00"
+      },
+      "sunday": {
+        "label": "Sunday",
+        "value": "Closed"
+      }
+    }
+  },
+  "projectsPage": {
+    "meta": {
+      "title": "Our Projects | Niobil",
+      "description": "Discover our innovative technology solutions that add value to businesses.",
+      "keywords": "projects, digital solutions, technology projects, business solutions"
+    },
+    "title": "Our Projects",
+    "subtitle": "Adding value to businesses with our innovative technology solutions",
+    "projects": {
+      "bentap": {
+        "title": "Innovative Business Communication",
+        "description": "Bentap is a contactless digital business card solution powered by NFC technology for professionals. Strengthen your business connections with a single touch and prevent paper waste with an eco-friendly approach.",
+        "website": "bentap.com"
+      },
+      "thismenu": {
+        "title": "Modern Restaurant Experience with Contactless Menus",
+        "description": "ThisMenu is a contactless, digital menu solution for restaurants and cafes. Customize your menu with various design options and provide customers with an unforgettable ordering experience.",
+        "website": "thismenu.net"
+      },
+      "benscreen": {
+        "title": "Smart Display Solution of the Digital Age",
+        "description": "Benscreen is an innovative display solution designed to meet the digital advertising and information needs of businesses. Showcase your brand dynamically and impressively with customizable content management.",
+        "website": "benscreen.com"
+      },
+      "bilpp": {
+        "title": "Seamless and Secure Payment Experience",
+        "description": "Bentu Payment System offers a secure and fast payment process through integration with various banks. While increasing customer satisfaction with its user-friendly interface and reliable transaction capacity, it simplifies financial transactions for businesses.",
+        "website": "pay.bilpp.com"
+      },
+      "bilppgo": {
+        "title": "Shape Customer Experience with Instant Feedback",
+        "description": "Survey Bentu is an AI-powered customer feedback platform. Gain deep insights into customer satisfaction with real-time analytics and improve your services accordingly.",
+        "website": "bilppgo.com"
+      }
+    }
+  },
+  "ventures": {
+    "estegre": {
+      "meta": {
+        "title": "Estegre - Environment Monitoring Solutions | Niobil",
+        "description": "Monitor and control your environmental conditions in real-time with IoT sensors. Temperature, humidity, air quality monitoring and more.",
+        "keywords": "environment monitoring, IoT sensors, temperature monitoring, humidity monitoring, air quality"
+      },
+      "hero": {
+        "title": "Estegre",
+        "subtitle": "Environment Monitoring Solutions",
+        "description": "Monitor and control your environmental conditions in real-time with IoT sensors. Manage temperature, humidity, air quality, and more from a single platform."
+      },
+      "features": {
+        "title": "Features",
+        "subtitle": "Why Estegre?",
+        "description": "Keep your environmental conditions under control with Estegre",
+        "items": {
+          "monitoring": {
+            "title": "Real-Time Monitoring",
+            "description": "Monitor environmental conditions 24/7 and receive instant notifications."
+          },
+          "reporting": {
+            "title": "Detailed Reporting",
+            "description": "Analyze historical data and identify trends."
+          },
+          "automation": {
+            "title": "Smart Automation",
+            "description": "Take automatic actions based on your defined conditions."
+          }
+        }
+      },
+      "cta": {
+        "title": "Ready to meet Estegre?",
+        "subtitle": "Request a demo now.",
+        "button": "Request Demo"
+      }
+    },
+    "navibil": {
+      "meta": {
+        "title": "Navibil - Fleet Management Systems | Niobil",
+        "description": "Manage your vehicle fleets more efficiently with smart fleet management solutions. GPS tracking, fuel consumption analysis, and driver behavior reporting.",
+        "keywords": "fleet management, GPS tracking, fuel analysis, driver behavior, vehicle tracking"
+      },
+      "hero": {
+        "title": "Navibil",
+        "subtitle": "Fleet Management Systems",
+        "description": "Manage your vehicle fleets more efficiently with smart fleet management solutions. Optimize your costs with GPS tracking, fuel consumption analysis, and driver behavior reporting."
+      },
+      "features": {
+        "title": "Features",
+        "subtitle": "Why Navibil?",
+        "description": "Turn a new page in fleet management with Navibil",
+        "items": {
+          "gps": {
+            "title": "GPS Tracking",
+            "description": "Track your vehicles in real-time and optimize routes."
+          },
+          "fuel": {
+            "title": "Fuel Analysis",
+            "description": "Analyze fuel consumption and identify savings opportunities."
+          },
+          "driver": {
+            "title": "Driver Behavior",
+            "description": "Monitor driver performance and promote safe driving."
+          }
+        }
+      },
+      "cta": {
+        "title": "Ready to meet Navibil?",
+        "subtitle": "Request a demo now.",
+        "button": "Request Demo"
+      }
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "about": "About Us",
+    "copyright": "Bentu Technology A.Ş. All rights reserved."
+  },
+  "error": {
+    "pageNotFound": "Page not found",
+    "checkUrl": "Sorry, we couldn't find the page you're looking for. Please check the URL and try again, or return to the homepage.",
+    "goHome": "Go back home",
+    "contact": "Contact us"
+  },
+  "customersPage": {
+    "title": "Our Customers",
+    "subtitle": "Meet our customers' projects"
+  }
+} 

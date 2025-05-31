@@ -1,0 +1,27 @@
+{
+  "name": "bentu-new",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.15.2",
+    "papaparse": "^5.5.1",
+    "vite": "^6.0.11",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "dependencies": {
+    "@nuxt/icon": "^1.10.3",
+    "@nuxtjs/i18n": "^9.1.2",
+    "@nuxtjs/tailwindcss": "^6.13.1",
+    "eslint": "^9.18.0",
+    "rollup": "^4.31.0",
+    "typescript": "5.7.3"
+  }
+} 

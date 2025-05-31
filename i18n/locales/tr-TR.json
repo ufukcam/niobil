@@ -1,0 +1,380 @@
+{
+  "common": {
+    "contactUs": "Bizimle İletişime Geçin",
+    "learnMore": "Detaylı Bilgi",
+    "services": "Hizmetler",
+    "home": "Ana Sayfa",
+    "contact": "İletişim",
+    "customers": "Müşterilerimiz"
+  },
+  "servicesPage": {
+    "meta": {
+      "title": "Hizmetlerimiz | Niobil",
+      "description": "Endüstriyel çözümler ve teknoloji alanında uzman ekibimizle sunduğumuz kapsamlı hizmetler.",
+      "keywords": "endüstriyel otomasyon, network çözümleri, server çözümleri, güvenlik çözümleri, yazılım geliştirme, IoT çözümleri"
+    },
+    "title": "Faaliyet Alanlarımız",
+    "description": "Endüstriyel çözümler ve teknoloji alanında uzman ekibimizle hizmetinizdeyiz",
+    "services": {
+      "industrial": {
+        "title": "Endüstriyel Otomasyon",
+        "description": "PLC programlama, SCADA sistemleri, HMI tasarımı ve endüstriyel network çözümleri. Üretim süreçlerinizi optimize ederek verimliliği artırıyoruz."
+      },
+      "network": {
+        "title": "Network Çözümleri",
+        "description": "Kurumsal ağ altyapısı, kablosuz ağ sistemleri, VPN çözümleri ve ağ güvenliği. İşletmenizin iletişim altyapısını güçlendiriyoruz."
+      },
+      "server": {
+        "title": "Server Çözümleri",
+        "description": "Sunucu kurulumu, sanallaştırma, yedekleme sistemleri, felaket kurtarma ve yük dengeleme. Verilerinizi güvende tutuyoruz."
+      },
+      "security": {
+        "title": "Güvenlik Çözümleri",
+        "description": "Siber güvenlik, güvenlik duvarı yönetimi, sızma testleri ve güvenlik danışmanlığı. İşletmenizi siber tehditlere karşı koruyoruz."
+      },
+      "software": {
+        "title": "Özel Yazılım Geliştirme",
+        "description": "Web uygulamaları, mobil uygulamalar, masaüstü yazılımlar ve API entegrasyonları. İhtiyaçlarınıza özel çözümler üretiyoruz."
+      },
+      "iot": {
+        "title": "IoT Çözümleri",
+        "description": "Sensör ağları, veri toplama sistemleri, uzaktan izleme ve kontrol çözümleri. Nesnelerin internetini işletmenize entegre ediyoruz."
+      },
+      "cloud": {
+        "title": "Bulut Çözümleri",
+        "description": "AWS, Azure ve Google Cloud platformlarında altyapı kurulumu, yönetimi ve optimizasyonu. İşletmenizi buluta taşıyoruz."
+      },
+      "analytics": {
+        "title": "Veri Analizi ve BI",
+        "description": "Büyük veri analizi, iş zekası çözümleri, raporlama ve dashboard tasarımı. Verilerinizi değere dönüştürüyoruz."
+      },
+      "consulting": {
+        "title": "Teknik Danışmanlık",
+        "description": "Proje yönetimi, teknoloji danışmanlığı, dijital dönüşüm stratejileri ve eğitim hizmetleri. Uzman ekibimizle yanınızdayız."
+      }
+    }
+  },
+  "services": {
+    "industrial": {
+      "meta": {
+        "title": "Endüstriyel Otomasyon Çözümleri | Niobil",
+        "description": "Modern üretim tesisleri için akıllı otomasyon çözümleri. PLC programlama, SCADA sistemleri ve HMI tasarım hizmetleri.",
+        "keywords": "endüstriyel otomasyon, plc programlama, scada sistemleri, hmi tasarım, otomasyon çözümleri"
+      },
+      "title": "Endüstriyel Otomasyon",
+      "description": "Modern üretim tesislerinin ihtiyaç duyduğu akıllı otomasyon çözümleri ile işletmenizi geleceğe taşıyoruz.",
+      "solutions": {
+        "title": "Kapsamlı Otomasyon Çözümleri",
+        "description": "Endüstriyel tesisleriniz için uçtan uca otomasyon çözümleri sunuyoruz."
+      },
+      "services": {
+        "title": "Hizmetlerimiz",
+        "description": "Modern endüstriyel tesislerin ihtiyaçları için kapsamlı çözümler:"
+      },
+      "features": {
+        "plc": {
+          "title": "PLC Programlama",
+          "description": "Siemens, Allen Bradley, Omron ve diğer önde gelen markaların PLC sistemleri için programlama ve entegrasyon."
+        },
+        "scada": {
+          "title": "SCADA Sistemleri",
+          "description": "Üretim süreçlerinizi gerçek zamanlı izlemenizi ve kontrol etmenizi sağlayan modern SCADA çözümleri."
+        },
+        "hmi": {
+          "title": "HMI Tasarımı",
+          "description": "Operatörlerinizin işini kullanıcı dostu ve modern arayüzlerle kolaylaştırın."
+        }
+      },
+      "cta": {
+        "question": "Projeniz için destek mi arıyorsunuz?",
+        "action": "Hemen iletişime geçin"
+      }
+    },
+    "network": {
+      "meta": {
+        "title": "Network Çözümleri | Niobil",
+        "description": "Kurumsal ağ altyapısı, VPN çözümleri ve ağ güvenliği hizmetleri. Güvenli ve yüksek performanslı network çözümleri.",
+        "keywords": "network çözümleri, ağ altyapısı, vpn çözümleri, ağ güvenliği, kurumsal network"
+      },
+      "title": "Network Çözümleri",
+      "description": "İşletmeniz için güvenli ve yüksek performanslı network altyapısı çözümleri sunuyoruz.",
+      "solutions": {
+        "title": "Kurumsal Network Çözümleri",
+        "description": "Modern işletmelerin ihtiyaçlarına uygun, ölçeklenebilir network çözümleri"
+      },
+      "features": {
+        "infrastructure": {
+          "title": "Ağ Altyapısı",
+          "description": "Yüksek performanslı ve güvenilir network altyapısı kurulumu ve yönetimi"
+        },
+        "vpn": {
+          "title": "VPN Çözümleri",
+          "description": "Güvenli uzaktan erişim ve şubeler arası bağlantı çözümleri"
+        },
+        "security": {
+          "title": "Ağ Güvenliği",
+          "description": "Firewall, IPS/IDS ve güvenlik duvarı çözümleri ile ağınızı koruyun"
+        }
+      },
+      "cta": {
+        "question": "Network altyapınızı güçlendirmek mi istiyorsunuz?",
+        "action": "Uzman ekibimizle iletişime geçin"
+      }
+    },
+    "server": {
+      "meta": {
+        "title": "Server Çözümleri | Niobil",
+        "description": "Kurumsal sunucu altyapısı, yedekleme ve felaket kurtarma hizmetleri. Güvenilir ve ölçeklenebilir server çözümleri.",
+        "keywords": "server çözümleri, sunucu yönetimi, yedekleme, felaket kurtarma, sanallaştırma"
+      },
+      "title": "Server Çözümleri",
+      "description": "İşletmeniz için güvenilir ve ölçeklenebilir sunucu altyapısı çözümleri sunuyoruz.",
+      "solutions": {
+        "title": "Kurumsal Server Çözümleri",
+        "description": "Modern işletmelerin ihtiyaçlarına uygun, yüksek performanslı sunucu çözümleri"
+      },
+      "features": {
+        "management": {
+          "title": "Sunucu Kurulumu ve Yönetimi",
+          "description": "Fiziksel ve sanal sunucularınızın kurulumu, yapılandırması ve proaktif yönetimi"
+        },
+        "backup": {
+          "title": "Yedekleme ve Felaket Kurtarma",
+          "description": "Verilerinizi güvende tutun ve iş sürekliliğinizi koruyun"
+        },
+        "virtualization": {
+          "title": "Sanallaştırma",
+          "description": "VMware ve Hyper-V ile kaynaklarınızı optimize edin ve maliyetlerinizi düşürün"
+        }
+      },
+      "cta": {
+        "question": "Sunucu altyapınızı güçlendirmek mi istiyorsunuz?",
+        "action": "Uzman ekibimizle iletişime geçin"
+      }
+    }
+  },
+  "homePage": {
+    "hero": {
+      "title": "Niobil ile ",
+      "subtitle": "geleceği inşa edin",
+      "description": "Yenilikçi çözümlerimiz ve uzman ekibimizle projelerinizi hayata geçiriyoruz. Kalite ve güvenilirlik bizim önceliğimiz.",
+      "buttons": {
+        "projects": "Projelerimiz",
+        "contact": "İletişime Geç"
+      }
+    },
+    "ventures": {
+      "title": "Girişimlerimiz",
+      "subtitle": "IoT Teknolojileri Alanında Öncü Çözümler",
+      "navibil": {
+        "title": "Navibil Filo Yönetim Sistemleri",
+        "description": "Akıllı filo yönetimi çözümleriyle araç filolarınızı daha verimli yönetin. GPS takip, yakıt analizi ve sürücü davranışı raporlaması."
+      },
+      "estegre": {
+        "title": "Estegre Ortam İzleme Çözümleri",
+        "description": "IoT sensörleriyle ortam koşullarınızı gerçek zamanlı izleyin ve kontrol edin. Sıcaklık, nem ve hava kalitesi takibi."
+      }
+    },
+    "features": {
+      "title": "Hizmetlerimiz",
+      "subtitle": "Teknoloji Çözümlerimiz",
+      "description": "Modern teknolojilerle işletmenizi geleceğe taşıyoruz.",
+      "web": {
+        "title": "Web Geliştirme",
+        "description": "Modern ve responsive web uygulamaları geliştiriyoruz. En son teknolojilerle güçlü çözümler sunuyoruz."
+      },
+      "mobile": {
+        "title": "Mobil Uygulama",
+        "description": "iOS ve Android için native mobil uygulamalar geliştiriyoruz. Kullanıcı dostu ve performanslı çözümler."
+      },
+      "data": {
+        "title": "Veri Analizi",
+        "description": "Verilerinizi analiz ediyor, anlamlı içgörüler sunuyoruz. Veri odaklı kararlar için destek sağlıyoruz."
+      },
+      "cloud": {
+        "title": "Bulut Çözümleri",
+        "description": "AWS ve Azure üzerinde ölçeklenebilir çözümler sunuyoruz. Güvenli ve performanslı altyapı hizmetleri."
+      }
+    },
+    "cta": {
+      "title": "Projeniz için hazır mısınız?",
+      "subtitle": "Hemen bizimle iletişime geçin.",
+      "buttons": {
+        "contact": "İletişime Geçin",
+        "projects": "Projelerimizi İnceleyin"
+      }
+    }
+  },
+  "contactPage": {
+    "meta": {
+      "title": "İletişim | Niobil",
+      "description": "Niobil ile iletişime geçin. Teknoloji çözümleri için uzman ekibimizle görüşün.",
+      "keywords": "iletişim, Niobil iletişim, teknoloji danışmanlığı"
+    },
+    "title": "İletişim",
+    "subtitle": "Projeleriniz için bizimle iletişime geçin",
+    "form": {
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "subject": "Konu",
+      "message": "Mesaj",
+      "submit": "Gönder"
+    },
+    "info": {
+      "title": "İletişim Bilgileri",
+      "address": {
+        "label": "Adres",
+        "value": "AOSB 3. Kısım Teknopark\nAntalya, Turkey"
+      },
+      "phone": {
+        "label": "Telefon",
+        "value": "+90 850 305 71 37"
+      },
+      "email": {
+        "label": "E-posta",
+        "value": "account[at]niobil.com"
+      }
+    },
+    "hours": {
+      "title": "Çalışma Saatleri",
+      "weekdays": {
+        "label": "Hafta İçi",
+        "value": "09:00 - 18:00"
+      },
+      "saturday": {
+        "label": "Cumartesi",
+        "value": "09:00 - 13:00"
+      },
+      "sunday": {
+        "label": "Pazar",
+        "value": "Kapalı"
+      }
+    }
+  },
+  "projectsPage": {
+    "meta": {
+      "title": "Projelerimiz | Niobil",
+      "description": "İşletmelere değer katan yenilikçi teknoloji çözümlerimizi keşfedin.",
+      "keywords": "projeler, dijital çözümler, teknoloji projeleri, işletme çözümleri"
+    },
+    "title": "Projelerimiz",
+    "subtitle": "Yenilikçi teknoloji çözümlerimizle işletmelere değer katıyoruz",
+    "projects": {
+      "bentap": {
+        "title": "İş Dünyasında Yenilikçi İletişim",
+        "description": "Bentap, profesyoneller için NFC teknolojisiyle güçlendirilmiş temassız bir dijital kartvizit çözümüdür. Tek bir dokunuşla iş bağlantılarınızı güçlendirin ve çevre dostu bir yaklaşımla kağıt israfını önleyin.",
+        "website": "bentap.com"
+      },
+      "thismenu": {
+        "title": "Temasız Menülerle Modern Restoran Deneyimi",
+        "description": "ThisMenü, restoran ve kafeler için temasız, dijital menü çözümüdür. Çeşitli tasarım seçenekleriyle menünüzü kişiselleştirin ve müşterilere unutulmaz bir sipariş deneyimi sunun.",
+        "website": "thismenu.net"
+      },
+      "benscreen": {
+        "title": "Dijital Çağın Akıllı Ekran Çözümü",
+        "description": "Benscreen, işletmelerin dijital reklam ve bilgilendirme ihtiyaçlarını karşılamak üzere tasarlanmış yenilikçi bir ekran çözümüdür. Özelleştirilebilir içerik yönetimi ile markanızı dinamik ve etkileyici bir şekilde sergileyin.",
+        "website": "benscreen.com"
+      },
+      "bilpp": {
+        "title": "Kesintisiz ve Güvenli Ödeme Deneyimi",
+        "description": "Bentu Payment System, çeşitli bankalarla entegrasyonu sayesinde güvenli ve hızlı bir ödeme süreci sunar. Kullanıcı dostu arayüzü ve güvenilir işlem kapasitesi ile müşteri memnuniyetini artırırken, işletmelerin finansal işlemlerini kolaylaştırır.",
+        "website": "pay.bilpp.com"
+      },
+      "bilppgo": {
+        "title": "Anlık Geri Bildirimle Müşteri Deneyimini Şekillendirin",
+        "description": "Survey Bentu, yapay zeka destekli bir müşteri geri bildirim platformudur. Gerçek zamanlı analizlerle, müşteri memnuniyetini derinlemesine anlayın ve hizmetlerinizi bu doğrultuda iyileştirin.",
+        "website": "bilppgo.com"
+      }
+    }
+  },
+  "ventures": {
+    "estegre": {
+      "meta": {
+        "title": "Estegre - Ortam İzleme Çözümleri | Niobil",
+        "description": "IoT sensörleriyle ortam koşullarınızı gerçek zamanlı izleyin ve kontrol edin. Sıcaklık, nem, hava kalitesi takibi ve daha fazlası.",
+        "keywords": "ortam izleme, IoT sensörleri, sıcaklık takibi, nem takibi, hava kalitesi"
+      },
+      "hero": {
+        "title": "Estegre",
+        "subtitle": "Ortam İzleme Çözümleri",
+        "description": "IoT sensörleriyle ortam koşullarınızı gerçek zamanlı izleyin ve kontrol edin. Sıcaklık, nem, hava kalitesi ve daha fazlasını tek bir platformdan yönetin."
+      },
+      "features": {
+        "title": "Özellikler",
+        "subtitle": "Neden Estegre?",
+        "description": "Estegre ile ortam koşullarınızı kontrol altında tutun",
+        "items": {
+          "monitoring": {
+            "title": "Gerçek Zamanlı İzleme",
+            "description": "Ortam koşullarını 7/24 izleyin ve anlık bildirimler alın."
+          },
+          "reporting": {
+            "title": "Detaylı Raporlama",
+            "description": "Geçmiş verileri analiz edin ve trendleri belirleyin."
+          },
+          "automation": {
+            "title": "Akıllı Otomasyon",
+            "description": "Belirlediğiniz koşullara göre otomatik aksiyonlar alın."
+          }
+        }
+      },
+      "cta": {
+        "title": "Estegre ile tanışmaya hazır mısınız?",
+        "subtitle": "Hemen demo talep edin.",
+        "button": "Demo Talep Et"
+      }
+    },
+    "navibil": {
+      "meta": {
+        "title": "Navibil - Filo Yönetim Sistemleri | Niobil",
+        "description": "Akıllı filo yönetimi çözümleriyle araç filolarınızı daha verimli yönetin. GPS takip, yakıt tüketimi analizi ve sürücü davranışı raporlaması.",
+        "keywords": "filo yönetimi, GPS takip, yakıt analizi, sürücü davranışı, araç takibi"
+      },
+      "hero": {
+        "title": "Navibil",
+        "subtitle": "Filo Yönetim Sistemleri",
+        "description": "Akıllı filo yönetimi çözümleriyle araç filolarınızı daha verimli yönetin. GPS takip, yakıt tüketimi analizi ve sürücü davranışı raporlaması ile maliyetlerinizi optimize edin."
+      },
+      "features": {
+        "title": "Özellikler",
+        "subtitle": "Neden Navibil?",
+        "description": "Navibil ile filo yönetiminde yeni bir sayfa açın",
+        "items": {
+          "gps": {
+            "title": "GPS Takip",
+            "description": "Araçlarınızın konumunu gerçek zamanlı takip edin ve rota optimizasyonu yapın."
+          },
+          "fuel": {
+            "title": "Yakıt Analizi",
+            "description": "Yakıt tüketimini analiz edin ve tasarruf noktalarını belirleyin."
+          },
+          "driver": {
+            "title": "Sürücü Davranışı",
+            "description": "Sürücü performansını takip edin ve güvenli sürüşü teşvik edin."
+          }
+        }
+      },
+      "cta": {
+        "title": "Navibil ile tanışmaya hazır mısınız?",
+        "subtitle": "Hemen demo talep edin.",
+        "button": "Demo Talep Et"
+      }
+    }
+  },
+  "footer": {
+    "company": "Şirket",
+    "about": "Hakkımızda",
+    "copyright": "Bentu Teknoloji A.Ş. Tüm hakları saklıdır."
+  },
+  "error": {
+    "pageNotFound": "Sayfa bulunamadı",
+    "checkUrl": "Üzgünüz, aradığınız sayfayı bulamadık. URL'yi kontrol edip tekrar deneyebilir veya ana sayfaya dönebilirsiniz.",
+    "goHome": "Ana Sayfaya Dön",
+    "contact": "Bize Ulaşın"
+  },
+  "customersPage": {
+    "title": "Müşterilerimiz",
+    "subtitle": "Müşterilerimizin projeleri ile tanışın"
+  }
+}
