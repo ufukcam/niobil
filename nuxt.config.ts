@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   modules: ["@nuxtjs/tailwindcss", "@nuxt/icon", "@nuxtjs/i18n"],
   app: {
     head: {
-      title: 'Bentu Teknoloji A.Ş',
+      title: 'Niobil OÜ | Kodix',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
