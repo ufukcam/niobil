@@ -278,12 +278,12 @@
       },
       "bilpp": {
         "title": "Kesintisiz ve Güvenli Ödeme Deneyimi",
-        "description": "Bentu Payment System, çeşitli bankalarla entegrasyonu sayesinde güvenli ve hızlı bir ödeme süreci sunar. Kullanıcı dostu arayüzü ve güvenilir işlem kapasitesi ile müşteri memnuniyetini artırırken, işletmelerin finansal işlemlerini kolaylaştırır.",
+        "description": "Niobil OU Payment System, çeşitli bankalarla entegrasyonu sayesinde güvenli ve hızlı bir ödeme süreci sunar. Kullanıcı dostu arayüzü ve güvenilir işlem kapasitesi ile müşteri memnuniyetini artırırken, işletmelerin finansal işlemlerini kolaylaştırır.",
         "website": "pay.bilpp.com"
       },
       "bilppgo": {
         "title": "Anlık Geri Bildirimle Müşteri Deneyimini Şekillendirin",
-        "description": "Survey Bentu, yapay zeka destekli bir müşteri geri bildirim platformudur. Gerçek zamanlı analizlerle, müşteri memnuniyetini derinlemesine anlayın ve hizmetlerinizi bu doğrultuda iyileştirin.",
+        "description": "Survey Niobil OU, yapay zeka destekli bir müşteri geri bildirim platformudur. Gerçek zamanlı analizlerle, müşteri memnuniyetini derinlemesine anlayın ve hizmetlerinizi bu doğrultuda iyileştirin.",
         "website": "bilppgo.com"
       }
     }
@@ -365,7 +365,7 @@
   "footer": {
     "company": "Şirket",
     "about": "Hakkımızda",
-    "copyright": "Bentu Teknoloji A.Ş. Tüm hakları saklıdır."
+    "copyright": "Niobil OU Teknoloji A.Ş. Tüm hakları saklıdır."
   },
   "error": {
     "pageNotFound": "Sayfa bulunamadı",

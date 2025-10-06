@@ -278,12 +278,12 @@
       },
       "bilpp": {
         "title": "Seamless and Secure Payment Experience",
-        "description": "Bentu Payment System offers a secure and fast payment process through integration with various banks. While increasing customer satisfaction with its user-friendly interface and reliable transaction capacity, it simplifies financial transactions for businesses.",
+        "description": "Niobil OU Payment System offers a secure and fast payment process through integration with various banks. While increasing customer satisfaction with its user-friendly interface and reliable transaction capacity, it simplifies financial transactions for businesses.",
         "website": "pay.bilpp.com"
       },
       "bilppgo": {
         "title": "Shape Customer Experience with Instant Feedback",
-        "description": "Survey Bentu is an AI-powered customer feedback platform. Gain deep insights into customer satisfaction with real-time analytics and improve your services accordingly.",
+        "description": "Survey Niobil OU is an AI-powered customer feedback platform. Gain deep insights into customer satisfaction with real-time analytics and improve your services accordingly.",
         "website": "bilppgo.com"
       }
     }
@@ -365,7 +365,7 @@
   "footer": {
     "company": "Company",
     "about": "About Us",
-    "copyright": "Bentu Technology A.Ş. All rights reserved."
+    "copyright": "Niobil OU Technology A.Ş. All rights reserved."
   },
   "error": {
     "pageNotFound": "Page not found",

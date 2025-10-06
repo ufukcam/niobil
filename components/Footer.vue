@@ -54,6 +54,9 @@
                   <a href="#" class="text-base text-gray-500 hover:text-gray-900">{{ $t('projectsPage.title') }}</a>
                 </li>
                 <li>
+                  <a href="#" class="text-base text-gray-500 hover:text-gray-900">Terms of Service</a>
+                </li>
+                <li>
                   <a href="#" class="text-base text-gray-500 hover:text-gray-900">{{ $t('common.contact') }}</a>
                 </li>
               </ul>

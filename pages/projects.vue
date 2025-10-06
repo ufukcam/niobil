@@ -95,7 +95,7 @@
         <!-- Bilpp Payment -->
         <div class="flex flex-col overflow-hidden rounded-2xl shadow-xl transition-all duration-300 hover:shadow-2xl hover:-translate-y-1">
           <div class="flex-shrink-0">
-            <img class="h-48 w-full object-cover" src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" alt="Bentu Payment">
+            <img class="h-48 w-full object-cover" src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" alt="Niobil OU Payment">
           </div>
           <div class="flex flex-1 flex-col justify-between bg-white p-6">
             <div class="flex-1">
@@ -108,7 +108,7 @@
             </div>
             <div class="mt-6 flex items-center">
               <div class="flex-shrink-0">
-                <img class="h-10" src="https://ui-avatars.com/api/?name=Bilpp&color=7F9CF5&background=EBF4FF" alt="Bentu Logo">
+                <img class="h-10" src="https://ui-avatars.com/api/?name=Bilpp&color=7F9CF5&background=EBF4FF" alt="Niobil OU Logo">
               </div>
               <div class="ml-3">
                 <p class="text-sm font-medium text-gray-900">
